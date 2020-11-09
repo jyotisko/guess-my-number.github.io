@@ -82,4 +82,5 @@ document.querySelector('.check').addEventListener('click', function() {
 
 var again = document.querySelector('.again').addEventListener('click', function() {
     init();
+    
 });
